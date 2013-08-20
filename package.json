@@ -16,7 +16,7 @@
   "browser": "./inherits_browser.js",
   "repository": "https://github.com/isaacs/inherits",
   "license": {
-    "type": "WTFPL2"
+    "type": "ICS"
   },
   "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
   "scripts": {
